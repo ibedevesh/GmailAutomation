@@ -29,7 +29,7 @@ To use this script, you **must use a Gmail app password**, not your regular Gmai
 
 ## Usage
  ```bash
-python email_sender.py
+python gmail.py
 ```
 
 ## Example Output
